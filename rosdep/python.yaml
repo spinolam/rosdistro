@@ -113,7 +113,7 @@ python-argparse:
     saucy:
       packages: []
     trusty:
-      packages: []
+      packages: [libpython2.7-stdlib]
     trusty_python3:
       packages: []
     utopic:
